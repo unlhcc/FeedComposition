@@ -1,0 +1,9 @@
+.directory
+*.htm
+*.html
+*~
+*.log
+*.lst
+*.txt
+*.png
+*.csv
